@@ -1,0 +1,45 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background-color: lightblue;
+    /* padding-top: 5%;*/
+}  
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.profile{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin-left: 35%;
+    border-radius: 10px;
+    padding-top: 5%;
+    
+}
+
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+h2{
+    font-family: Arial;
+    font-weight: bold;
+    color: rgba(213, 183, 183, 0.525);
+
+}
+
+p{
+    font-weight: bold;
+    color: rgb(161, 106, 106);
+}
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: rgba(56, 56, 198, 0.918);
+    border-radius: 8px;
+     
+}
